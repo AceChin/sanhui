@@ -1,0 +1,23 @@
+$--color-primary: #038FEE;
+
+$--font-size-base: 12px;
+$--font-weight-primary: 400;
+$--font-color-disabled-base: #C2C6D1;
+
+$--color-success:  #2EC8A6;
+$--color-warning: #FDB062;
+$--color-danger: #FD7686;
+$--color-info: #909399;
+$--color-progressing: #038FEE;
+
+// $--color-text-primary: #373D44;
+$--color-text-regular: #373D44;
+$--color-text-secondary: #565F6B;
+$--color-text-tertiary: #A1A3A7;
+$--color-text-placeholder: #C2C6D1;
+
+
+/* 改变 icon 字体路径变量，必需 */
+$--font-path: '~element-ui/lib/theme-chalk/fonts';
+
+@import "~element-ui/packages/theme-chalk/src/index";
